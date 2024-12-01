@@ -1,0 +1,23 @@
+Final Project Ideas
+
+- Video game review website
+
+- One home page
+
+- One page to view upcoming releases
+
+- One page to select whether to view reviews, or submit your own review
+
+- One page to view reviews
+
+- One page to submit a review
+
+- One about page
+
+- One login page
+
+- One sign-up page
+
+- One page to manage reviews (update/delete)
+
+- One error page that redirects to home page
